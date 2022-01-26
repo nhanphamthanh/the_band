@@ -16,6 +16,10 @@ html {
     background-color: #000;
 
 }
+
+#nav {
+    display: inline-block;
+}
 #nav, .subnav {
     list-style-type: none;
 }
@@ -69,9 +73,28 @@ html {
     display: inline-block;
 }
 
+#nav .nav-arrow-down {
+    font-size: 16px;
+}
+
 #nav .subnav li:hover {
     color: black;
     background-color: #ccc;
+}
+
+#header .search-btn {
+    float: right;
+    padding: 0 21px;
+}
+
+#header .search-btn:hover {
+    background-color: #f44336;
+}
+
+#header .search-icon {
+    color: #fff;
+    font-size: 20px;
+    line-height: 46px;
 }
 #slider {
     min-height: 500px;
