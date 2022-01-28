@@ -120,7 +120,7 @@ html {
     min-height: 500px;
     padding-top: 50%;
     margin-top: 46px;
-    background: url(/html/The_band/assets/img/slider/slider1.jpg) top center / cover no-repeat;
+    background: url(/The_band/assets/img/slider/slider1.jpg) top center / cover no-repeat;
 }
 
 #slider .text-content {
